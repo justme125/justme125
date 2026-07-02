@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Justme125
 
-Welcome to my GitHub profile! I'm a passionate developer interested in **Machine Learning**, **Computer Vision**, **Robotics**, and **Full-Stack Web Development**.
+Welcome to my GitHub profile! I'm a passionate developer interested in **Machine Learning**, **Computer Vision**, **Robotics**.
 
 ---
 
